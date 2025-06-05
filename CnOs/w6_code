@@ -1,4 +1,4 @@
-
+broadcast
 #include<stdio.h>
 int a[10][10], n;
 void adj(int k) {
