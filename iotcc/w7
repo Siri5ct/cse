@@ -61,4 +61,4 @@ Serial.println("%. Send to Thingspeak.");
   Serial.println("Waiting...");
   delay(1000);
 }
-}
+
